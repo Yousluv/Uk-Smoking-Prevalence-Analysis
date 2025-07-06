@@ -24,7 +24,7 @@ A flat structure was likely used due to the demographic-focused nature of the da
 
 ## 📊 6. Visualization
 
-![]()
+![](dash9.png)
 Key categories analyzed include:
 •	Smoking by Marital Status
 o	Highest among Singles (37.05%) and Divorced (35.85%)
