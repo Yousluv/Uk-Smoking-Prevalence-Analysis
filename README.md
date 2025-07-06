@@ -22,7 +22,9 @@ The dataset captures the percentage of smoking population distributed across:
 ## 🗃️ 5. Data Model Summary
 A flat structure was likely used due to the demographic-focused nature of the data. Each record represents a group percentage segmented by multiple attributes like gender, income, education, etc.
 
-## 📊 6. Exploratory Data Analysis
+## 📊 6. Visualization
+
+![]()
 Key categories analyzed include:
 •	Smoking by Marital Status
 o	Highest among Singles (37.05%) and Divorced (35.85%)
