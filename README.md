@@ -1,6 +1,6 @@
 # Uk-Smoking-Prevalence-Analysis
 ## 🎯 1. Project Objective
-To analyze smoking habits across demographic and socio-economic groups in the UK. This study helps identify key patterns and potential public health intervention areas based on age, gender, income, education, ethnicity, and marital status.
+To analyze smoking habits across demographic and socio-economic groups in the UK. This prohect helps identify key patterns and potential public health intervention areas based on age, gender, income, education, ethnicity, and marital status.
 
 ## 📂 2. Dataset Overview
 The dataset captures the percentage of smoking population distributed across:
@@ -25,42 +25,51 @@ A flat structure was likely used due to the demographic-focused nature of the da
 ## 📊 6. Visualization
 
 ![](dash9.png)
+
 Key categories analyzed include:
-•	Smoking by Marital Status
-o	Highest among Singles (37.05%) and Divorced (35.85%)
-o	Lowest among Married (17.60%) and Widowed (17.65%)
-•	Smoking by Age Category
-o	Young Adults are most likely to smoke (40%), followed by Teenagers (28.33%)
-o	Lowest prevalence among Older Generation (12.55%)
-•	Weekday vs Weekend Smoking
-o	Average consumption:
-	Weekends: 4.09
-	Weekdays: 3.42
-o	Suggests higher consumption on weekends (54.41%)
-•	Smoking by Income Class
-o	Higher prevalence among lower-income groups:
-	10,400 to 15,600: ~31% (both genders)
-	Under 2,600: Females (22.52%), Males (50.00%)
-o	Sharp decline in higher income classes (e.g., Above 36,400: Female: 7.69%, Male: 18.42%)
-•	Smoking by Ethnicity
-o	Highest among Mixed ethnicity (35.71%)
-o	Followed by White (25%) and Black (23.53%)
-o	Lowest among Chinese (18.52%) and Asian (19.51%)
-•	Smoking by Gender
-o	Male smokers (51.51%) slightly exceed females (48.49%)
-•	Smoking by Highest Qualification
-o	Highest among those with GCSE/CSE (38.78%) and GCSE/O Level (34.86%)
-o	Decreases with higher education:
-	Degree holders: only 15.08%
+### Smoking by Marital Status
+- Highest among Singles (37.05%) and Divorced (35.85%)
+- Lowest among Married (17.60%) and Widowed (17.65%)
+
+### Smoking by Age Category
+-	Young Adults are most likely to smoke (40%), followed by Teenagers (28.33%)
+-	Lowest prevalence among Older Generation (12.55%)
+
+### Weekday vs Weekend Smoking
+- Average consumption:
+- Weekends: 54.41%
+- Weekdays: 45.59%
+
+- Suggests higher consumption on weekends (54.41%)
+
+### Smoking by Income Class
+- Higher prevalence among lower-income groups:
+- 10,400 to 15,600: ~31% (both genders)
+- Under 2,600: Females (22.52%), Males (50.00%)
+
+- Sharp decline in higher income classes (e.g., Above 36,400: Female: 7.69%, Male: 18.42%)
+### Smoking by Ethnicity
+- Highest among Mixed ethnicity (35.71%)
+- Followed by White (25%) and Black (23.53%)
+- Lowest among Chinese (18.52%) and Asian (19.51%)
+
+### Smoking by Gender
+- Male smokers (51.51%) slightly exceed females (48.49%)
+
+### Smoking by Highest Qualification
+- Highest among those with GCSE/CSE (38.78%) and GCSE/O Level (34.86%)
+- Decreases with higher education:
+
+### Degree holders: only 15.08%
 
 ## 👁️ 7. Observations
-•	Education and Smoking Inversely Correlated: Lower qualifications significantly associate with higher smoking rates.
-•	Young Adults Most Affected: Age group 18–30 appears most vulnerable.
-•	High Weekend Consumption: Weekends see elevated smoking levels, suggesting lifestyle or social factors.
-•	Income Impact: Smoking rates decline as income increases. Particularly high rates in the lowest two brackets.
-•	Ethnic Variation: Mixed ethnic groups and White individuals show higher prevalence.
-•	Marital Status Insight: Being single or divorced correlates with higher smoking behavior.
-•	Gender Gap Narrowing: Though slightly higher among males, smoking rates are relatively balanced across genders.
+- Education and Smoking Inversely Correlated: Lower qualifications significantly associate with higher smoking rates.
+- Young Adults Most Affected: Age group 18–30 appears most vulnerable.
+- High Weekend Consumption: Weekends see elevated smoking levels, suggesting lifestyle or social factors.
+-	Income Impact: Smoking rates decline as income increases. Particularly high rates in the lowest two brackets.
+- Ethnic Variation: Mixed ethnic groups and White individuals show higher prevalence.
+- Marital Status Insight: Being single or divorced correlates with higher smoking behavior.
+- Gender Gap Narrowing: Though slightly higher among males, smoking rates are relatively balanced across genders.
 
 ## ✅ 8. Recommendations
 1.	Targeted Campaigns for Young Adults
